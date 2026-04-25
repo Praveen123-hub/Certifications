@@ -1,3 +1,3 @@
 Certifications
 NPTEL – Python for Data Science (Score: 90%)
-IIT Madras – Winter Internship (AI/ML)
+IIT Madras – Winter Internship 
